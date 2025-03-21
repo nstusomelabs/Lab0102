@@ -3,6 +3,7 @@
 #include <algorithm>
 using namespace std;
 
+// comment
 enum Mode {
   TOLOWER_CASE,
   TOUPPER_CASE,
