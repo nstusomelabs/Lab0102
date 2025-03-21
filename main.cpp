@@ -2,7 +2,7 @@
 #include <string>
 #include <algorithm>
 using namespace std;
-
+//cinnebt
 // comment
 enum Mode {
   TOLOWER_CASE,
